@@ -1,2 +1,2 @@
 # Probability-and-Statistics
-Contains course material and my practices
+Contains course material and my exercises
